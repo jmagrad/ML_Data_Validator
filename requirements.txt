@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pandas
+prefect
+python-dotenv
+boto3           # For S3 / MinIO access
+streamlit       # Optional: dashboard
